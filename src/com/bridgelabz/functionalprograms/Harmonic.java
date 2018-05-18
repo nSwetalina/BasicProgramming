@@ -11,7 +11,7 @@ package com.bridgelabz.functionalprograms;
 
 public class Harmonic {
 	/*
-	 * The main function is written to test LeapYear class
+	 * The main function is written to test Harmonic value
 	 */
 
 	public static void main(String[] args) {
